@@ -9,7 +9,7 @@ Rails 周りの技術本のオンライン輪読会
 [Everyday Rails - RSpecによるRailsテスト入門](https://leanpub.com/everydayrailsrspec-jp)
 
 ## 次回のスケジュール
-3/4 (水曜日)
+3/11 (水曜日)
 ページ：3. モデルスペック
 
 ## 参加方法
